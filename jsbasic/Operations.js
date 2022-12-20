@@ -1,0 +1,14 @@
+var num1=20;
+var num2=40;
+var num3=30;
+var result=num1+num2;
+var result1=num1/num2;
+var result2=num1*num2;
+result++;
+var res=num1==num2;
+var res1=(num1==num2&&num1==num3);
+console.log(result);
+console.log(result1);
+console.log(result2);
+console.log(res);
+console.log(res1);
